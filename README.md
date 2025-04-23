@@ -10,7 +10,7 @@ I enjoy making the user interface **clean and easy to work with** using **HTML, 
 ### 💻 Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git" />
 </p>  
 
 ---
@@ -18,7 +18,7 @@ I enjoy making the user interface **clean and easy to work with** using **HTML, 
 ### 📖 Currently Learning  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ---
