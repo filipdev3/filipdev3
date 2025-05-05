@@ -3,7 +3,7 @@
 I'm **Filip** - I am a **frontend developer** with a great deal of passion and currently in my last year of **Computer Science**.  
 I enjoy making the user interface **clean and easy to work with** using **HTML, CSS, and JavaScript**, while **React** is my current domain of study.  
 
-🚀 **My goal?** To become a **full-stack developer** and master both frontend and backend technologies.  
+🚀 **My goal?** For now my goal is to find a job as a **front-end developer** at tech industry.
 
 ---
 
